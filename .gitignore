@@ -1,4 +1,7 @@
 genai-azure/
 introduction-to-genai/
-llms/
 sample-python-project/
+llms/qa_sessions/
+llms/fine-tuning-assignment/fine-tuning-practice/
+llms/rlhf-project_TODO/
+llms/capstone_TODO/
